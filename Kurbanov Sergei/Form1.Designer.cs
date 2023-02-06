@@ -32,10 +32,10 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.checkBox1 = new System.Windows.Forms.CheckBox();
             this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
-            this.backgroundButton = new System.Windows.Forms.Button();
-            this.clearButton = new System.Windows.Forms.Button();
-            this.showButton = new System.Windows.Forms.Button();
             this.closeButton = new System.Windows.Forms.Button();
+            this.clearButton = new System.Windows.Forms.Button();
+            this.backgroundButton = new System.Windows.Forms.Button();
+            this.showButton = new System.Windows.Forms.Button();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
             this.colorDialog1 = new System.Windows.Forms.ColorDialog();
             this.tableLayoutPanel1.SuspendLayout();
@@ -70,6 +70,7 @@
             this.pictureBox1.Size = new System.Drawing.Size(765, 372);
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // checkBox1
             // 
@@ -95,16 +96,16 @@
             this.flowLayoutPanel1.Size = new System.Drawing.Size(650, 37);
             this.flowLayoutPanel1.TabIndex = 2;
             // 
-            // backgroundButton
+            // closeButton
             // 
-            this.backgroundButton.AutoSize = true;
-            this.backgroundButton.Location = new System.Drawing.Point(342, 3);
-            this.backgroundButton.Name = "backgroundButton";
-            this.backgroundButton.Size = new System.Drawing.Size(110, 23);
-            this.backgroundButton.TabIndex = 0;
-            this.backgroundButton.Text = "Показать рисунок";
-            this.backgroundButton.UseVisualStyleBackColor = true;
-            this.backgroundButton.Click += new System.EventHandler(this.backgroundButton_Click);
+            this.closeButton.AutoSize = true;
+            this.closeButton.Location = new System.Drawing.Point(572, 3);
+            this.closeButton.Name = "closeButton";
+            this.closeButton.Size = new System.Drawing.Size(75, 23);
+            this.closeButton.TabIndex = 3;
+            this.closeButton.Text = "Закрыть";
+            this.closeButton.UseVisualStyleBackColor = true;
+            this.closeButton.Click += new System.EventHandler(this.closeButton_Click);
             // 
             // clearButton
             // 
@@ -117,27 +118,27 @@
             this.clearButton.UseVisualStyleBackColor = true;
             this.clearButton.Click += new System.EventHandler(this.clearButton_Click);
             // 
+            // backgroundButton
+            // 
+            this.backgroundButton.AutoSize = true;
+            this.backgroundButton.Location = new System.Drawing.Point(317, 3);
+            this.backgroundButton.Name = "backgroundButton";
+            this.backgroundButton.Size = new System.Drawing.Size(135, 23);
+            this.backgroundButton.TabIndex = 0;
+            this.backgroundButton.Text = "Установить цвет фона ";
+            this.backgroundButton.UseVisualStyleBackColor = true;
+            this.backgroundButton.Click += new System.EventHandler(this.backgroundButton_Click);
+            // 
             // showButton
             // 
             this.showButton.AutoSize = true;
-            this.showButton.Location = new System.Drawing.Point(204, 3);
+            this.showButton.Location = new System.Drawing.Point(179, 3);
             this.showButton.Name = "showButton";
             this.showButton.Size = new System.Drawing.Size(132, 23);
             this.showButton.TabIndex = 2;
-            this.showButton.Text = "Установить цвет фона";
+            this.showButton.Text = "Показать рисунок ";
             this.showButton.UseVisualStyleBackColor = true;
             this.showButton.Click += new System.EventHandler(this.showButton_Click);
-            // 
-            // closeButton
-            // 
-            this.closeButton.AutoSize = true;
-            this.closeButton.Location = new System.Drawing.Point(572, 3);
-            this.closeButton.Name = "closeButton";
-            this.closeButton.Size = new System.Drawing.Size(75, 23);
-            this.closeButton.TabIndex = 3;
-            this.closeButton.Text = "Закрыть";
-            this.closeButton.UseVisualStyleBackColor = true;
-            this.closeButton.Click += new System.EventHandler(this.closeButton_Click);
             // 
             // openFileDialog1
             // 

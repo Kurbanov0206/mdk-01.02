@@ -9,3 +9,14 @@ C:\Users\student\Desktop\Kurbanov Sergei\Kurbanov Sergei\obj\Debug\Kurbanov Serg
 C:\Users\student\Desktop\Kurbanov Sergei\Kurbanov Sergei\obj\Debug\Kurbanov Sergei.csproj.CoreCompileInputs.cache
 C:\Users\student\Desktop\Kurbanov Sergei\Kurbanov Sergei\obj\Debug\Kurbanov Sergei.exe
 C:\Users\student\Desktop\Kurbanov Sergei\Kurbanov Sergei\obj\Debug\Kurbanov Sergei.pdb
+C:\Users\student\Downloads\mdk-01.02-main (1)\mdk-01.02-main\Kurbanov Sergei\bin\Debug\Kurbanov Sergei.exe.config
+C:\Users\student\Downloads\mdk-01.02-main (1)\mdk-01.02-main\Kurbanov Sergei\bin\Debug\Kurbanov Sergei.exe
+C:\Users\student\Downloads\mdk-01.02-main (1)\mdk-01.02-main\Kurbanov Sergei\bin\Debug\Kurbanov Sergei.pdb
+C:\Users\student\Downloads\mdk-01.02-main (1)\mdk-01.02-main\Kurbanov Sergei\obj\Debug\Kurbanov Sergei.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\mdk-01.02-main (1)\mdk-01.02-main\Kurbanov Sergei\obj\Debug\Kurbanov Sergei.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Downloads\mdk-01.02-main (1)\mdk-01.02-main\Kurbanov Sergei\obj\Debug\Kurbanov_Sergei.Form1.resources
+C:\Users\student\Downloads\mdk-01.02-main (1)\mdk-01.02-main\Kurbanov Sergei\obj\Debug\Kurbanov_Sergei.Properties.Resources.resources
+C:\Users\student\Downloads\mdk-01.02-main (1)\mdk-01.02-main\Kurbanov Sergei\obj\Debug\Kurbanov Sergei.csproj.GenerateResource.cache
+C:\Users\student\Downloads\mdk-01.02-main (1)\mdk-01.02-main\Kurbanov Sergei\obj\Debug\Kurbanov Sergei.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\mdk-01.02-main (1)\mdk-01.02-main\Kurbanov Sergei\obj\Debug\Kurbanov Sergei.exe
+C:\Users\student\Downloads\mdk-01.02-main (1)\mdk-01.02-main\Kurbanov Sergei\obj\Debug\Kurbanov Sergei.pdb
